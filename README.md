@@ -10,7 +10,7 @@
     <p>Tarefas da materia de Programação para Dispositivos Móveis do curso de Ciência da Computação.</p>
     <h1>⚙️Sistema que foi usado</h1>
     <img src="https://appinventor.mit.edu/images/logo.png" alt="logo-app-inventor"> 
-    <h1>📍Vesão</h1>
+    <h1>📍Versão</h1>
     <p>1.0v ou versão única</p>
     <h1>✍️Autores</h1>
     <p>Bruno Barros de Brito - Programador Iniciante</p>
